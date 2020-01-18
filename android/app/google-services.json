@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608502098115",
+    "firebase_url": "https://ismart-6af52.firebaseio.com",
+    "project_id": "ismart-6af52",
+    "storage_bucket": "ismart-6af52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608502098115:android:f77848301a358e25b1da76",
+        "android_client_info": {
+          "package_name": "com.ismart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608502098115-8n27o4rm7mcf9fnslc2f11kge9gh6q55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismart_app",
+            "certificate_hash": "e7f85770a144b773003b8a99ef13bac4c4a9fc31"
+          }
+        },
+        {
+          "client_id": "608502098115-53k0u2hperduel4ntsb9027j3qq68sa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_jsm2qaCp9H56xuBYGNmFuCxH2krpZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608502098115-53k0u2hperduel4ntsb9027j3qq68sa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

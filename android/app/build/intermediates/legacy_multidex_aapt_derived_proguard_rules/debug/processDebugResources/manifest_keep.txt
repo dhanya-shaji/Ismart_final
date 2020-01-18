@@ -1,0 +1,4 @@
+# Referenced at /home/texol/dhanya/Ismart_final/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:49
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/texol/dhanya/Ismart_final/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:49
+-keep class com.ismart_app.MainApplication { <init>(); }

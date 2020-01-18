@@ -1,0 +1,808 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [:react-native-splash-screen] /home/texol/dhanya/Ismart_final/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /home/texol/dhanya/Ismart_final/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/19ed3525dea1525b7ebca9ebde583893/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-youtube] /home/texol/dhanya/Ismart_final/node_modules/react-native-youtube/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/741be48061adab0fea9b2f002697e5d2/firebase-core-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:2:1-52:12
+MERGED from [:@react-native-community_async-storage] /home/texol/dhanya/Ismart_final/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.60.5] /home/texol/.gradle/caches/transforms-2/files-2.1/f6e6c1e2481ea2b0be10af4bfd6c5c33/jetified-react-native-0.60.5/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/texol/.gradle/caches/transforms-2/files-2.1/3c9f267cfe4619df46b917bb11a55f65/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/texol/.gradle/caches/transforms-2/files-2.1/e81fc1723b40f5490bc7d2d0337fba63/jetified-ucrop-2.2.2-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /home/texol/.gradle/caches/transforms-2/files-2.1/6fa3ac46d88ed0fefbeb723e1e0a5607/ahbottomnavigation-3.0.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /home/texol/.gradle/caches/transforms-2/files-2.1/404be51e874ee384526db3a3b4940b21/material-1.1.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/texol/.gradle/caches/transforms-2/files-2.1/757224ffa789e01386fa70f15089836d/jetified-reflow-animator-1.0.4/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/f69e18bb4d6f4dd3491b4176f4f0a64d/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:17:1-42:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/c56fca6a2fbad8d8ddc458f4aec5a06c/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/48c9d8d824125a4e4c5d842fccc73cd9/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/b02801427def76858d05c24130f4baab/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/1fab6b84f84ad501272d294c558ee33c/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /home/texol/.gradle/caches/transforms-2/files-2.1/b7cedb3d787d5d1a3d734f4ff4e568fa/viewpager2-1.0.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/9cd2296d182652fe9436b95f043da5ac/fragment-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /home/texol/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/4ada37e01d9101a834b3edd0d042d834/recyclerview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/645bdf82b17585bd6c91c83830070fb5/activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/f82742c61c984e5e31a28e0c02703f0b/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:17:1-25:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f0f95bfc2116c173c377b24c49e1276e/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/95fff7133002c125c901bc5797e8939e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f5cc8fffba3fd9f621c762df136887c6/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/ab579f15dec281cfd3973501b5c5ecec/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e81440b779fc6e492a631e93d6de8a23/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2604880cf543c06889016f92ad826fce/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bddf90bdf7753737ab59927a7d1c7063/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e8a9686d29e50fa06e47435b007ebc44/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b630fccbdc2ad6089a310917acf4dfc1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/07a10a0cead9a447f78103e8d38f9b9b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5351ba69d53acfbae58340a136c409ac/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/cb371970c366491a9ebd019ff2448a98/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/11eb9eddacca8977384c67b18d604208/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/5b24e92b8a4f8841604737b14b792a5f/savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.clans:fab:1.6.4] /home/texol/.gradle/caches/transforms-2/files-2.1/e1fc5cfec426b356ce3f8d78837e5a22/fab-1.6.4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a3bfe6668b54b4af85191dc052344f5e/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:13:22-63
+application
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:15:5-41:19
+MERGED from [:react-native-splash-screen] /home/texol/dhanya/Ismart_final/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /home/texol/dhanya/Ismart_final/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-25:19
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-25:19
+MERGED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.firebase:firebase-core:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/741be48061adab0fea9b2f002697e5d2/firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/741be48061adab0fea9b2f002697e5d2/firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.60.5] /home/texol/.gradle/caches/transforms-2/files-2.1/f6e6c1e2481ea2b0be10af4bfd6c5c33/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /home/texol/.gradle/caches/transforms-2/files-2.1/f6e6c1e2481ea2b0be10af4bfd6c5c33/jetified-react-native-0.60.5/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /home/texol/.gradle/caches/transforms-2/files-2.1/6fa3ac46d88ed0fefbeb723e1e0a5607/ahbottomnavigation-3.0.2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /home/texol/.gradle/caches/transforms-2/files-2.1/6fa3ac46d88ed0fefbeb723e1e0a5607/ahbottomnavigation-3.0.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /home/texol/.gradle/caches/transforms-2/files-2.1/404be51e874ee384526db3a3b4940b21/material-1.1.0-alpha08/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /home/texol/.gradle/caches/transforms-2/files-2.1/404be51e874ee384526db3a3b4940b21/material-1.1.0-alpha08/AndroidManifest.xml:22:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/f82742c61c984e5e31a28e0c02703f0b/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/f82742c61c984e5e31a28e0c02703f0b/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e8a9686d29e50fa06e47435b007ebc44/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e8a9686d29e50fa06e47435b007ebc44/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/texol/.gradle/caches/transforms-2/files-2.1/e1fc5cfec426b356ce3f8d78837e5a22/fab-1.6.4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /home/texol/.gradle/caches/transforms-2/files-2.1/e1fc5cfec426b356ce3f8d78837e5a22/fab-1.6.4/AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:17:7-39
+	android:roundIcon
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:19:7-52
+	android:icon
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:18:7-41
+	android:allowBackup
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:20:7-34
+	android:theme
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:22:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:16:7-38
+activity#com.ismart_app.MainActivity
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:23:7-34:18
+	android:label
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:25:9-41
+	android:windowSoftInputMode
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:27:9-51
+	android:configChanges
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:26:9-79
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:24:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:28:9-33:25
+action#android.intent.action.MAIN
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:30:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:6-70
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:35:7-84
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:35:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:36:9-40:19
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:36:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:37:13-39:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:25-75
+uses-sdk
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /home/texol/dhanya/Ismart_final/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/texol/dhanya/Ismart_final/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/texol/dhanya/Ismart_final/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/texol/dhanya/Ismart_final/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/19ed3525dea1525b7ebca9ebde583893/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/19ed3525dea1525b7ebca9ebde583893/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /home/texol/dhanya/Ismart_final/node_modules/react-native-youtube/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-youtube] /home/texol/dhanya/Ismart_final/node_modules/react-native-youtube/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/741be48061adab0fea9b2f002697e5d2/firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/741be48061adab0fea9b2f002697e5d2/firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5360419d4f2c78ee0a1ab88a2bb93fad/firebase-analytics-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /home/texol/dhanya/Ismart_final/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/texol/dhanya/Ismart_final/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /home/texol/.gradle/caches/transforms-2/files-2.1/f6e6c1e2481ea2b0be10af4bfd6c5c33/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /home/texol/.gradle/caches/transforms-2/files-2.1/f6e6c1e2481ea2b0be10af4bfd6c5c33/jetified-react-native-0.60.5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/texol/.gradle/caches/transforms-2/files-2.1/3c9f267cfe4619df46b917bb11a55f65/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/texol/.gradle/caches/transforms-2/files-2.1/3c9f267cfe4619df46b917bb11a55f65/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/texol/.gradle/caches/transforms-2/files-2.1/e81fc1723b40f5490bc7d2d0337fba63/jetified-ucrop-2.2.2-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/texol/.gradle/caches/transforms-2/files-2.1/e81fc1723b40f5490bc7d2d0337fba63/jetified-ucrop-2.2.2-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /home/texol/.gradle/caches/transforms-2/files-2.1/6fa3ac46d88ed0fefbeb723e1e0a5607/ahbottomnavigation-3.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /home/texol/.gradle/caches/transforms-2/files-2.1/6fa3ac46d88ed0fefbeb723e1e0a5607/ahbottomnavigation-3.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /home/texol/.gradle/caches/transforms-2/files-2.1/404be51e874ee384526db3a3b4940b21/material-1.1.0-alpha08/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /home/texol/.gradle/caches/transforms-2/files-2.1/404be51e874ee384526db3a3b4940b21/material-1.1.0-alpha08/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/texol/.gradle/caches/transforms-2/files-2.1/757224ffa789e01386fa70f15089836d/jetified-reflow-animator-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /home/texol/.gradle/caches/transforms-2/files-2.1/757224ffa789e01386fa70f15089836d/jetified-reflow-animator-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/f69e18bb4d6f4dd3491b4176f4f0a64d/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/f69e18bb4d6f4dd3491b4176f4f0a64d/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9326e9e8a0637b55d704c27a024dac58/play-services-measurement-sdk-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/56bf2de506167a1d817f8e5bf8125ea4/play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/c56fca6a2fbad8d8ddc458f4aec5a06c/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/c56fca6a2fbad8d8ddc458f4aec5a06c/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/48c9d8d824125a4e4c5d842fccc73cd9/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/48c9d8d824125a4e4c5d842fccc73cd9/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/b02801427def76858d05c24130f4baab/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/b02801427def76858d05c24130f4baab/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/1fab6b84f84ad501272d294c558ee33c/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/1fab6b84f84ad501272d294c558ee33c/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /home/texol/.gradle/caches/transforms-2/files-2.1/b7cedb3d787d5d1a3d734f4ff4e568fa/viewpager2-1.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /home/texol/.gradle/caches/transforms-2/files-2.1/b7cedb3d787d5d1a3d734f4ff4e568fa/viewpager2-1.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/9cd2296d182652fe9436b95f043da5ac/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/9cd2296d182652fe9436b95f043da5ac/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/texol/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/texol/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/4ada37e01d9101a834b3edd0d042d834/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/4ada37e01d9101a834b3edd0d042d834/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/645bdf82b17585bd6c91c83830070fb5/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/645bdf82b17585bd6c91c83830070fb5/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/f82742c61c984e5e31a28e0c02703f0b/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /home/texol/.gradle/caches/transforms-2/files-2.1/f82742c61c984e5e31a28e0c02703f0b/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f0f95bfc2116c173c377b24c49e1276e/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f0f95bfc2116c173c377b24c49e1276e/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/95fff7133002c125c901bc5797e8939e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/95fff7133002c125c901bc5797e8939e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f5cc8fffba3fd9f621c762df136887c6/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/f5cc8fffba3fd9f621c762df136887c6/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/ab579f15dec281cfd3973501b5c5ecec/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/ab579f15dec281cfd3973501b5c5ecec/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e81440b779fc6e492a631e93d6de8a23/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e81440b779fc6e492a631e93d6de8a23/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2604880cf543c06889016f92ad826fce/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2604880cf543c06889016f92ad826fce/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bddf90bdf7753737ab59927a7d1c7063/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bddf90bdf7753737ab59927a7d1c7063/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e8a9686d29e50fa06e47435b007ebc44/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e8a9686d29e50fa06e47435b007ebc44/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b630fccbdc2ad6089a310917acf4dfc1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/b630fccbdc2ad6089a310917acf4dfc1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/07a10a0cead9a447f78103e8d38f9b9b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/07a10a0cead9a447f78103e8d38f9b9b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5351ba69d53acfbae58340a136c409ac/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/5351ba69d53acfbae58340a136c409ac/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/cb371970c366491a9ebd019ff2448a98/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/cb371970c366491a9ebd019ff2448a98/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/11eb9eddacca8977384c67b18d604208/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/11eb9eddacca8977384c67b18d604208/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/5b24e92b8a4f8841604737b14b792a5f/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/texol/.gradle/caches/transforms-2/files-2.1/5b24e92b8a4f8841604737b14b792a5f/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.clans:fab:1.6.4] /home/texol/.gradle/caches/transforms-2/files-2.1/e1fc5cfec426b356ce3f8d78837e5a22/fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /home/texol/.gradle/caches/transforms-2/files-2.1/e1fc5cfec426b356ce3f8d78837e5a22/fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a3bfe6668b54b4af85191dc052344f5e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/a3bfe6668b54b4af85191dc052344f5e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7f05f94b4641f7f51c8a5c4e3ed4099f/play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+service#com.pilloxa.backgroundjob.BackgroundJob
+ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-18:72
+	android:exported
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-36
+	android:permission
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-69
+	android:name
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-67
+service#com.pilloxa.backgroundjob.ExactJob
+ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:38
+	android:enabled
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-35
+	android:name
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+service#com.pilloxa.backgroundjob.ReactNativeEventStarter$MyHeadlessJsTaskService
+ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-24:38
+	android:enabled
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from [:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-101
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:50:22-86
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:37:25-84
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7b6b88ecf3a259024a45d2a41b617e9c/play-services-measurement-impl-17.2.0/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/texol/dhanya/Ismart_final/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/texol/.gradle/caches/transforms-2/files-2.1/e81fc1723b40f5490bc7d2d0337fba63/jetified-ucrop-2.2.2-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,444 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ismart_app"
+4    android:versionCode="5"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:5-81
+12-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:6:5-77
+13-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:6:22-75
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:7:5-81
+14-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:8:5-74
+15-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:8:22-72
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:9:5-64
+16-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:9:22-62
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:10:5-80
+17-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:10:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:5-81
+18-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:5:22-78
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:12:5-81
+19-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:12:22-78
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:13:5-66
+20-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:13:22-63
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+21-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required to access Google Play Licensing -->
+22-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+22-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+23    <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> <!-- Required to check whether Wi-Fi is enabled -->
+23-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+23-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+24-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+24-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-73
+25    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
+25-->[com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+25-->[com.google.android.gms:play-services-iid:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/2cd7b3ab85211b786cb58e1ce86550f0/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+26    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+27    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+28    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+29    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+30    <!-- for Samsung -->
+31    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+31-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:19:5-86
+31-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:19:22-83
+32    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+32-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:20:5-87
+32-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:20:22-84
+33    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+33-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:23:5-81
+33-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:23:22-78
+34    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+34-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:24:5-83
+34-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:24:22-80
+35    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+35-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:27:5-88
+35-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:27:22-85
+36    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+36-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:28:5-92
+36-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:28:22-89
+37    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+37-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:31:5-84
+37-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:31:22-81
+38    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+38-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:34:5-83
+38-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:34:22-80
+39    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+39-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:37:5-91
+39-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:37:22-88
+40    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+40-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:38:5-92
+40-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:38:22-89
+41    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+41-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:39:5-93
+41-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:39:22-90
+42    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+42-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:42:5-73
+42-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:42:22-70
+43    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+43-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:45:5-82
+43-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:45:22-79
+44    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+44-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:46:5-83
+44-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:46:22-80
+45    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+45-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:49:5-88
+45-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:49:22-85
+46    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+46-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:50:5-89
+46-->[me.leolin:ShortcutBadger:1.1.21] /home/texol/.gradle/caches/transforms-2/files-2.1/12a12888d127f9a8f8a0ed78c8daf6eb/ShortcutBadger-1.1.21/AndroidManifest.xml:50:22-86
+47    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+47-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
+47-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+48
+49    <application
+49-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:15:5-41:19
+50        android:name="com.ismart_app.MainApplication"
+50-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:16:7-38
+51        android:allowBackup="false"
+51-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:20:7-34
+52        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+52-->[androidx.core:core:1.2.0-alpha01] /home/texol/.gradle/caches/transforms-2/files-2.1/b62e0ad550a8022ba1589ab8ee3b1103/core-1.2.0-alpha01/AndroidManifest.xml:22:18-86
+53        android:debuggable="true"
+54        android:icon="@mipmap/ic_launcher"
+54-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:18:7-41
+55        android:label="@string/app_name"
+55-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:17:7-39
+56        android:roundIcon="@mipmap/ic_launcher_round"
+56-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:19:7-52
+57        android:theme="@style/AppTheme"
+57-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:22:7-38
+58        android:usesCleartextTraffic="true" >
+58-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:21:9-44
+59        <activity
+59-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:23:7-34:18
+60            android:name="com.ismart_app.MainActivity"
+60-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:24:9-37
+61            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+61-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:26:9-79
+62            android:label="@string/app_name"
+62-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:25:9-41
+63            android:windowSoftInputMode="adjustResize" >
+63-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:27:9-51
+64            <intent-filter>
+64-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:28:9-33:25
+65                <action android:name="android.intent.action.MAIN" />
+65-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:29:13-65
+65-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:29:21-62
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:30:13-73
+67-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:30:23-70
+68
+69                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+69-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:6-70
+69-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:14-68
+70                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+70-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:6-70
+70-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:31:14-68
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:35:7-84
+74            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+74-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:35:17-81
+75            android:exported="false" />
+75-->[:react-native-navigation] /home/texol/dhanya/Ismart_final/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Debug/AndroidManifest.xml:14:13-37
+76
+77        <service android:name="io.invertase.firebase.messaging.RNFirebaseMessagingService" >
+77-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:36:9-40:19
+77-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:36:18-91
+78            <intent-filter>
+78-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:37:13-39:29
+79                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+79-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:17-78
+79-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:25-75
+80            </intent-filter>
+81        </service>
+82        <service
+82-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+83            android:name="com.google.firebase.components.ComponentDiscoveryService"
+83-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+84            android:exported="false" >
+84-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:29:13-37
+85            <meta-data
+85-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+86                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
+86-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[:react-native-firebase] /home/texol/dhanya/Ismart_final/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+88            <meta-data
+88-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+89                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+89-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.android.gms:play-services-measurement-api:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/28c1ceda9eb72d23d1907429a7dd5035/play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+91            <meta-data
+91-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+92                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+92-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+94        </service>
+95        <service
+95-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-18:72
+96            android:name="com.pilloxa.backgroundjob.BackgroundJob"
+96-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-67
+97            android:exported="true"
+97-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-36
+98            android:permission="android.permission.BIND_JOB_SERVICE" />
+98-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-69
+99        <service
+99-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:38
+100            android:name="com.pilloxa.backgroundjob.ExactJob"
+100-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+101            android:enabled="true" />
+101-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-35
+102        <service
+102-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-24:38
+103            android:name="com.pilloxa.backgroundjob.ReactNativeEventStarter$MyHeadlessJsTaskService"
+103-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-101
+104            android:enabled="true" />
+104-->[:react-native-background-job] /home/texol/dhanya/Ismart_final/node_modules/react-native-background-job/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-35
+105
+106        <provider
+106-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+107            android:name="com.imagepicker.FileProvider"
+107-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+108            android:authorities="com.ismart_app.provider"
+108-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+109            android:exported="false"
+109-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+110            android:grantUriPermissions="true" >
+110-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+111            <meta-data
+111-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+112                android:name="android.support.FILE_PROVIDER_PATHS"
+112-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+113                android:resource="@xml/provider_paths" />
+113-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+114        </provider>
+115        <provider
+115-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+116            android:name="androidx.core.content.FileProvider"
+116-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+117            android:authorities="com.ismart_app.provider"
+117-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+118            android:exported="false"
+118-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+119            android:grantUriPermissions="true" >
+119-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+120            <meta-data
+120-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+122                android:resource="@xml/provider_paths" />
+122-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+123        </provider>
+124
+125        <activity
+125-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+126            android:name="com.yalantis.ucrop.UCropActivity"
+126-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+127            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+127-->[:react-native-image-crop-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+128
+129        <provider
+129-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+130            android:name="com.RNFetchBlob.Utils.FileProvider"
+130-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+131            android:authorities="com.ismart_app.provider"
+131-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+132            android:exported="false"
+132-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+133            android:grantUriPermissions="true" >
+133-->[:rn-fetch-blob] /home/texol/dhanya/Ismart_final/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+134            <meta-data
+134-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+135                android:name="android.support.FILE_PROVIDER_PATHS"
+135-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+136                android:resource="@xml/provider_paths" />
+136-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+137        </provider>
+138        <provider
+138-->[:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+139            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+139-->[:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+140            android:authorities="com.ismart_app.fileprovider"
+140-->[:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+141            android:exported="false"
+141-->[:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+142            android:grantUriPermissions="true" >
+142-->[:react-native-webview] /home/texol/dhanya/Ismart_final/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+143            <meta-data
+143-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+144                android:name="android.support.FILE_PROVIDER_PATHS"
+144-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+145                android:resource="@xml/file_provider_paths" />
+145-->[:react-native-image-picker] /home/texol/dhanya/Ismart_final/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+146        </provider>
+147
+148        <receiver
+148-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+149            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+149-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+150            android:enabled="true"
+150-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+151            android:exported="true" >
+151-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+152            <intent-filter>
+152-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+153                <action android:name="com.android.vending.INSTALL_REFERRER" />
+153-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+153-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+154            </intent-filter>
+155        </receiver>
+156        <!--
+157             FirebaseMessagingService performs security checks at runtime,
+158             but set to not exported to explicitly avoid allowing another app to call it.
+159        -->
+160        <service
+160-->[com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:28:9-34:19
+161            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+161-->[com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:29:13-82
+162            android:exported="false" >
+162-->[com.google.firebase:firebase-messaging:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/81d928eed7a3c8a240ff9394bdacba01/jetified-firebase-messaging-19.0.0/AndroidManifest.xml:30:13-37
+163            <intent-filter android:priority="-500" >
+163-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:37:13-39:29
+164                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+164-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:17-78
+164-->/home/texol/dhanya/Ismart_final/android/app/src/main/AndroidManifest.xml:38:25-75
+165            </intent-filter>
+166        </service>
+167
+168        <receiver
+168-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+169            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+169-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+170            android:exported="true"
+170-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+171            android:permission="com.google.android.c2dm.permission.SEND" >
+171-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+172            <intent-filter>
+172-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+173                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+173-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+173-->[com.google.firebase:firebase-iid:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/6cfe46f408152b0cf1be5d6c31bb25ab/firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+174            </intent-filter>
+175        </receiver>
+176
+177        <activity
+177-->[com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+178            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+178-->[com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+179            android:exported="false"
+179-->[com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+180            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+180-->[com.google.android.gms:play-services-base:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/c423a4a4c865f1495e65a77f87be0907/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+181        <!--
+182             Receives GooglePlay execution requests and forwards them to the
+183             appropriate internal service.
+184        -->
+185        <service
+185-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:32:9-39:19
+186            android:name="com.firebase.jobdispatcher.GooglePlayReceiver"
+186-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:33:13-73
+187            android:exported="true"
+187-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:34:13-36
+188            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+188-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:35:13-93
+189            <intent-filter>
+189-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:36:13-38:29
+190                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+190-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:37:17-87
+190-->[com.firebase:firebase-jobdispatcher:0.8.5] /home/texol/.gradle/caches/transforms-2/files-2.1/6f405dee60ae5c69cf86e4692ccb7328/jetified-firebase-jobdispatcher-0.8.5/AndroidManifest.xml:37:25-84
+191            </intent-filter>
+192        </service>
+193
+194        <receiver
+194-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+195            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+195-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+196            android:enabled="true"
+196-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+197            android:exported="false" >
+197-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+198        </receiver>
+199        <receiver
+199-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+200            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+200-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+201            android:enabled="true"
+201-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+202            android:exported="true"
+202-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+203            android:permission="android.permission.INSTALL_PACKAGES" >
+203-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+204            <intent-filter>
+204-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+205                <action android:name="com.android.vending.INSTALL_REFERRER" />
+205-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+205-->[:react-native-device-info] /home/texol/dhanya/Ismart_final/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+206            </intent-filter>
+207        </receiver>
+208
+209        <service
+209-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+210            android:name="com.google.android.gms.measurement.AppMeasurementService"
+210-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+211            android:enabled="true"
+211-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+212            android:exported="false" />
+212-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+213        <service
+213-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+214            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+214-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+215            android:enabled="true"
+215-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+216            android:exported="false"
+216-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+217            android:permission="android.permission.BIND_JOB_SERVICE" />
+217-->[com.google.android.gms:play-services-measurement:17.2.0] /home/texol/.gradle/caches/transforms-2/files-2.1/7c4237e0029812955685234cfce19139/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+218
+219        <provider
+219-->[com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+220            android:name="com.google.firebase.provider.FirebaseInitProvider"
+220-->[com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+221            android:authorities="com.ismart_app.firebaseinitprovider"
+221-->[com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+222            android:exported="false"
+222-->[com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+223            android:initOrder="100" />
+223-->[com.google.firebase:firebase-common:19.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/e306355be855e8d08fa629ba35e00000/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+224
+225        <meta-data
+225-->[com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+226            android:name="com.google.android.gms.version"
+226-->[com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+227            android:value="@integer/google_play_services_version" />
+227-->[com.google.android.gms:play-services-basement:17.0.0] /home/texol/.gradle/caches/transforms-2/files-2.1/93d9360391e4fc14a64fe6bf8203f6ee/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+228    </application>
+229
+230</manifest>
